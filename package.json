@@ -1,0 +1,19 @@
+{
+  "name": "it3040-lab-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lahiru-360/IT3040-Lab-04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lahiru-360/IT3040-Lab-04/issues"
+  },
+  "homepage": "https://github.com/Lahiru-360/IT3040-Lab-04#readme"
+}
